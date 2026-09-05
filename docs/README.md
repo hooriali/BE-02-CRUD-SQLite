@@ -1,0 +1,1 @@
+Add the actual DB Browser for SQLite screenshot here as database-screenshot.png. The screenshot should show the tasks table and rows.
